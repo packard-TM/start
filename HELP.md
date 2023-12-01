@@ -19,3 +19,14 @@ Linux или MacOS:
 ```sh
 ls
 ```
+
+Удаление файла:
+Windovs:
+```sh
+del file_name
+```
+
+Linux или MacOS:
+```sh
+rm file_name
+```
