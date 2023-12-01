@@ -30,3 +30,8 @@ Linux или MacOS:
 ```sh
 rm file_name
 ```
+
+Посмотреть не внесенные изменения
+```sh
+git diff
+```
