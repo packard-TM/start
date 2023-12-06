@@ -56,7 +56,17 @@ git log --oneline
 
 Переключение между изменениями
 ```sh
-gid checkout №_нужного_лога
+git checkout №_нужного_лога
 что бы вернуться в мастера
-gid checkout master
+git checkout master
+```
+
+Работа с ветками
+```sh
+git branch (показывает наши ветки и ветку, в которой мы находимся)
+git branch imya_vetki (создание ветки)
+git checkout imya_vetki (переключаемся на ветку)
+git branch master (что бы вернуться в ветку мастера)
+git merge imya_vetki (перед слиянием необходимо находиться в ветке, в которую объединяют, master)
+git branch -d imya_vetki
 ```
