@@ -18,14 +18,9 @@ ls (Linux или MacOS)
 ```
 
 Удаление файла:
-Windovs:
 ```sh
-del file_name
-```
-
-Linux или MacOS:
-```sh
-rm file_name
+del file_name (Windovs)
+rm file_name (Linux или MacOS)
 ```
 
 Посмотреть не внесенные изменения
