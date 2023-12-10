@@ -12,13 +12,9 @@ pwd
 ```
 
 Листинг текущей директории
-Windows:
 ```sh
-dir
-```
-Linux или MacOS:
-```sh
-ls
+dir (Windows)
+ls (Linux или MacOS)
 ```
 
 Удаление файла:
