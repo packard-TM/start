@@ -68,5 +68,5 @@ git branch imya_vetki (создание ветки)
 git checkout imya_vetki (переключаемся на ветку)
 git branch master (что бы вернуться в ветку мастера)
 git merge imya_vetki (перед слиянием необходимо находиться в ветке, в которую объединяют, master)
-git branch -d imya_vetki
+git branch -d imya_vetki (удалить выбранную ветку)
 ```
