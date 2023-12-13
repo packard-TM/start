@@ -20,6 +20,16 @@
 
 <u>Подчёркнутый текст</u>
 
+Также можно выделять текст цветом и указыывать размер текста (1-7)
+
+<font color=red size=1>каждый</font>
+<font color=orange size=2>охотник</font>
+<font color=yellow size=3>желает</font>
+<font color=green size=4>знать</font>
+<font color=lightblue size=5>где</font>
+<font color=blue size=6>сидит</font>
+<font color=violet size=7>фазан</font>
+
 ## Списки.
 
 * Элемент 1
