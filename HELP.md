@@ -30,7 +30,8 @@ git diff
 
 Внести изменения
 ```sh
-git add
+git add file_name (добавляет файл file_name)
+git add . (добавляет все файлы)
 ```
 
 Создать комментарий
