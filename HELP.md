@@ -6,6 +6,10 @@
 
 ```git config --global user.email my_email``` указывается своя почта
 
+```git config user.name``` проверить свое имя
+
+```git config user.email``` проверить свою почту
+
 
 ### Команда инициализации 
 ```git init```
